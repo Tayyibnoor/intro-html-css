@@ -1,0 +1,49 @@
+                                                      /* internal CSS inside head. Change everything on the page. */
+
+body {background-color: #c4c4c4
+
+}
+
+hr {
+    background-color:#c4c4c4;
+    border-style: dotted none none;
+    width: 90%;
+    height: 0px;
+    border-color: black;
+    border-width: 3px;
+}
+
+
+                                                                    /* EXTERNAL CSS - creat link on index */
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: blue;
+}
+
+                                                                    /* CSS class selectors  */
+
+                                                           
+
+.hello {color: red;
+}
+
+.shit {color: blue;}                      
+
+                                                         /* CSS Id Selectors */
+
+
+                                                         /* CSS Id Selector More specific. Can only be one*/
+                                                         
+#test {
+    color: green;
+    
+}
+
+img:hover {
+    background-color: red;
+}
+
